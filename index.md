@@ -4,7 +4,7 @@ This page will host information on [Navy Yard](https://www.forbes.com/sites/anna
 
 ## Budget Related Analyses
 ## Sales Data
-### Neighborhood Information
+## Neighborhood Information
 
 ### Contact
 
